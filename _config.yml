@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 苏远的博客
 subtitle:
 description: 东京下雨，淋湿巴黎
-author: suyuan&zhuli
+author: suyuan
 language: zh-Hans
 timezone:
 
@@ -80,4 +80,12 @@ deploy:
   type: git
   repo: https://github.com/su6838354/su6838354.github.io.git
   branch: master
+
+# Admin
+admin:
+    name: hexo
+    password: hey
+    secret: hey hexo
+    expire: 60*1
+    # cors: http://localhost:3000
 
