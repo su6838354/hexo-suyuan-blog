@@ -1,7 +1,10 @@
 ---
 title: XSS 和CSRF
-tags: ['http', '前端']
-categories: ['安全']
+tags:
+  - http
+  - 前端
+categories:
+  - 安全
 date: 2017-08-27 20:30:39
 ---
 
