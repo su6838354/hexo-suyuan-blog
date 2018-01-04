@@ -2,7 +2,7 @@
 title: 搭建自己的个人博客
 tags: ['nodejs','hexo']
 categories: ['工具']
-date: 2017-08-25 00:02:42
+date: 2014-11-20 00:02:42
 ---
 
 # github上建立个人主页
