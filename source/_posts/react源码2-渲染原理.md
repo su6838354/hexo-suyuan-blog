@@ -4,7 +4,7 @@ tags:
   - reactjs
 categories:
   - 前端
-date: 2017-10-15 22:02:15
+date: 2017-05-15 22:02:15
 ---
 
 > 一切皆是组件，组件生成元素，元素创建dom的过程中调用组件的生命周期和render
@@ -430,7 +430,9 @@ ReactCompositeComponent.prototype.mountComponent = function(rootID){
 - 上面实现了三种类型的元素，其实我们发现本质上没有太大的区别，都是有自己对应component类来处理自己的渲染过程。
 
 
-本文大部分内容参考[reactjs源码分析-上篇（首次渲染实现原理）](https://github.com/purplebamboo/blog/issues/2)
+本文大部分内容参考
+[reactjs源码分析-上篇（首次渲染实现原理）](https://github.com/purplebamboo/blog/issues/2)
+https://zhuanlan.zhihu.com/p/25881952
 
 
 

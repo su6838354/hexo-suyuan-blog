@@ -1,10 +1,10 @@
 ---
 title: react源码1--页面是怎么出来的
 tags:
-    - reactjs
+  - reactjs
 categories:
-    - 前端
-date: 2017-10-09 20:40:55
+  - 前端
+date: 2017-05-09 20:40:55
 ---
 
 ![](/images/react/react-1.png)

@@ -7,7 +7,7 @@ categories:
 date: 2017-03-09 00:08:16
 ---
 
-react 前后使用了近2年时间，这里给出一些体会
+react 前后使用了一年多时间，这里给出一些体会
 
 ### 使用pureRender，setState和Immutable.js来操作state
 Immutable 中文意思不可变。

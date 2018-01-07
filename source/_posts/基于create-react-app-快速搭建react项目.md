@@ -1,7 +1,7 @@
 ---
 title: 基于create-react-app快速搭建react项目
 tags:
-  - react
+  - reactjs
   - 工程
 categories:
   - 前端
