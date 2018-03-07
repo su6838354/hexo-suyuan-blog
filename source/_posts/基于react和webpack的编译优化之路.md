@@ -2,7 +2,7 @@
 title: 基于react和webpack的编译优化之路
 tags:
   - reactjs
-  - 项目
+  - project
 categories:
   - 前端
 date: 2017-09-03 22:09:29
@@ -36,9 +36,9 @@ webpack.config
 
     module.exports = {
         entry: {
-            //'lts-irelease2-nav':'./src/jsx/lts-irelease2-nav.jsx',
-            'lts-irelease2-create-project':'./src/jsx/lts-irelease2-create-devplan.jsx',
-            'lts-irelease2-list-project':'./src/jsx/lts-irelease2-list-devplan.jsx',
+            //'xxx':'./src/jsx/xxx.jsx',
+            'xxxx1':'./src/jsx/xxxx1.jsx',
+            'xxxx2':'./src/jsx/xxxx2.jsx',
             ...
         },
         output: {
@@ -154,7 +154,7 @@ react-router管理前端路由，后端路由暂时不去除
 
 - webpack2升级为webpack3，react 升级到15.X
 
-- CND引入
+- cdn引入
 react等基础包不需要编译，通过引入cnd的方式
 webpack的 externals 特性
 注意区分开发和线上环境引入不同包
@@ -169,7 +169,3 @@ webpack的 externals 特性
 
 - 添加antd组件库，antd按需引入
 
-
-
-参考
-https://github.com/hawx1993/tech-blog/issues/3

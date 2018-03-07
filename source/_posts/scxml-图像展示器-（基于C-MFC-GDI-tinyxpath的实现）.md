@@ -3,6 +3,7 @@ title: scxml 图像展示器 （基于C++ MFC GDI tinyxpath的实现）
 tags:
   - C++
   - scxml
+  - project
 categories:
   - 个人项目
 date: 2015-01-13 22:50:12

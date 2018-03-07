@@ -3,6 +3,7 @@ title: 基于react项目架构
 tags:
   - 项目
   - reactjs
+  - project
 categories:
   - 个人项目
 date: 2017-12-16 22:45:53
